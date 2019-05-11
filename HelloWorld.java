@@ -10,6 +10,11 @@ public void test()
 System.out.println("Test");
 }
 
+ public void runner()
+{
+System.out.println("Test");
+} 
+  
 }
 
 /**
